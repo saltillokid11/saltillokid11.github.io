@@ -1,7 +1,7 @@
 # Site settings
-title: This is the story that never ends!
-header-img: img/home-bg.png
-email: tanner@flatironschool.com
+title: Salutations Visitor!
+header-img: img/nycbg.jpg
+email: tannerlancaster@gmail.com
 copyright_name: saltillokid11
 description: > # this means to ignore newlines until "baseurl:"
   subtitle that never ends!
@@ -9,7 +9,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  saltillokid11
 learn_profile: saltillokid11
-email_username: tanner@flatironschool.com
+email_username: tannerlancaster@gmail.com
 
 # Build settings
 markdown: kramdown
